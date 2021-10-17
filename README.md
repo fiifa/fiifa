@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fifa444.
 - 👀 I live in the Czech Republic. 
 - 🌱 I like nature. 
-- 💞️ I love guinea pigs
+- 💞️ I love guinea pigs.
