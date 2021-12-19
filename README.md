@@ -9,8 +9,6 @@
 
 • 🍦 I like McDonald's. 
 
-• 📧 fifa@fiifa.ml 
-
-• 🐤 Mr. Infinity Staff, MP Helper, TheDevs ROOT.  
+• 📧 fifa@fiifa.ml  
 
       ⎯⎯⎯⎯⎯⎯⎯| 📌 FIFA 📌|⎯⎯⎯⎯⎯⎯⎯ 
