@@ -1,7 +1,7 @@
 
       ⎯⎯⎯⎯⎯⎯⎯| 📌 FIFA 📌|⎯⎯⎯⎯⎯⎯⎯ 
 
-• 🐼 I love pandas! 
+• 🐼 I love pandas! \n
 • 😞 Not a programmer. 
 • 🇨🇿 I live in the Czech Republic. 
 • 🍦 I like McDonald's. 
