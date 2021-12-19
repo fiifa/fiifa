@@ -3,7 +3,7 @@
 
 • 🐼 I love pandas!
 
-• 😞 Not a programmer. 
+• 😬 Not a developer. 
 
 • 🇨🇿 I live in the Czech Republic. 
 
