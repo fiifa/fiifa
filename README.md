@@ -2,8 +2,8 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-Hi, my name is Filip (fifa). One day I would like to learn programming. I like pandas,   <br>
-McDonald's and technology. This is my fourth year on Discord. 
+Hi, my name is Filip (fifa). <br> One day I would like to learn programming. I like pandas,  <br>
+McDonald's and technology. <br> This is my fourth year on Discord. 
 </div>
 
 <h3 align="center">Languages I am currently working on.</h3>
