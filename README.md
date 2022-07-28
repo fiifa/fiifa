@@ -16,11 +16,6 @@ McDonald's and technology. <br> This is my fourth year on Discord.
     <img src="https://skillicons.dev/icons?i=vscode,github,discord&theme=dark" />
 </div>
 
-/* <h3 align="center">Databases</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=&theme=dark" />
-</div> */
-
 
 <h3 align="center">Other</h3>
 <div align="center">
