@@ -13,13 +13,13 @@ McDonald's and technology. <br> This is my fourth year on Discord.
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,replit,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,discord&theme=dark" />
 </div>
 
-<h3 align="center">Databases</h3>
+/* <h3 align="center">Databases</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=quickdb&theme=dark" />
-</div>
+    <img src="https://skillicons.dev/icons?i=&theme=dark" />
+</div> */
 
 
 <h3 align="center">Other</h3>
